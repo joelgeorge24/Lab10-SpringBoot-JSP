@@ -16,7 +16,7 @@ public class EmployeeController {
 
     // Initialize with a mutable list
     private List<Employee> employeeList = new ArrayList<>(List.of(
-        new Employee(1L, "Akash Nair", "akashnair@gmail.com", "ITS")
+        new Employee(1L, "Mathews Joel George", "joelg@gmail.com", "ITS")
     ));
 
     @GetMapping
